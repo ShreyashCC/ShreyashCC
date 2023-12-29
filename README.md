@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreyashCC
+- 👋 Hi, I’m Shreyash
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning NLP
 
